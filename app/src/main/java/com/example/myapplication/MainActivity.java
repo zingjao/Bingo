@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
                             false,false,false,false};
     private Button BingoBtn1,BingoBtn2,BingoBtn3,BingoBtn4,BingoBtn5,
                     BingoBtn6,BingoBtn7,BingoBtn8,BingoBtn9,RandomNumBtn;
-    private int lines=0;
+    private int lines=0
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
